@@ -11,7 +11,11 @@ Usage:
 
 
   python3 books_to_marcxml.py input.csv
+  
   python3 books_to_marcxml.py input.xls
+  
   python3 books_to_marcxml.py input.xlsx
+  
   python3 books_to_marcxml.py input.xml
+  
   python3 books_to_marcxml.py input.csv --output my_library.xml
